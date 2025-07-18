@@ -13,8 +13,8 @@ Ela é transformada em `hash SHA-1`, e apenas os **5 primeiros caracteres** são
 ### No Termux ou Linux:
 
 ```bash
-git clone https://github.com/GZN000/Verificador-senha-vazadas.git
-cd Verificador-senha-vazadas
+git clone https://github.com/GZN000/Verificador-senhas-vazadas.git
+cd Verificador-senhas-vazadas
 pip install requests 
 python verificador.py
 
