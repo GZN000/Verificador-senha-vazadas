@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Verificador+de+Senhas+Vazadas;GZN000+%7C+GUGU+%F0%9F%8E%AD%F0%9F%A5%B7+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Verificador+de+Senhas+Vazadas;GZN000+%7C+GUGU;Primeiro projeto, me aguardem pra mais!+%F0%9F%8E%AD%F0%9F%A5%B7+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 # Verificador-senha-vazadas
